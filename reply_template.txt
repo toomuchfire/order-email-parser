@@ -1,0 +1,10 @@
+To: {to}
+Subject: {subject}
+
+Hi, Please send the following for {when}.
+
+{lines}
+
+Thank you,
+
+{signature}

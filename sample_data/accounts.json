@@ -1,0 +1,26 @@
+{
+  "subject_prefix": "Harbor & Vine",
+  "accounts": {
+    "Harbor & Vine North Beach (NB)": {
+      "short": "NB",
+      "patterns": [
+        "\\bnb\\b",
+        "north\\s*beach"
+      ]
+    },
+    "Harbor & Vine Cedar Hills (CH)": {
+      "short": "CH",
+      "patterns": [
+        "\\bch\\b",
+        "cedar\\s*hills"
+      ]
+    },
+    "Harbor & Vine Marina (MR)": {
+      "short": "MR",
+      "patterns": [
+        "\\bmr\\b",
+        "marina"
+      ]
+    }
+  }
+}

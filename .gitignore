@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Real employer/customer data: keep out of the public repo
+data/approved_wines.csv
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+
+# Run output
+orders_clean.csv
+needs_review.csv
+*.log
+
+/orders_raw/
+/orders/
+data/stock.csv
+inquiries.csv
+/drafts/
+/accounts.json
+/demo_output/
+/samples/
+.DS_Store
